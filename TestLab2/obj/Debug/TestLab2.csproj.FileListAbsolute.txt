@@ -1,0 +1,11 @@
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/TestLab2.dll
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/TestLab2.pdb
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/nunit.framework.dll
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/nunit.framework.xml
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/obj/Debug/TestLab2.csprojAssemblyReference.cache
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/obj/Debug/TestLab2.csproj.CoreCompileInputs.cache
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/obj/Debug/TestLab2.csproj.CopyComplete
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/obj/Debug/TestLab2.dll
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/obj/Debug/TestLab2.pdb
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/CSharpLab2.exe
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/TestLab2/bin/Debug/CSharpLab2.pdb

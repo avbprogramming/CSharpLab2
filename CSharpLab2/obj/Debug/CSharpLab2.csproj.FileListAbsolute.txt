@@ -1,0 +1,6 @@
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/bin/Debug/CSharpLab2.exe
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/bin/Debug/CSharpLab2.pdb
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/obj/Debug/CSharpLab2.csprojAssemblyReference.cache
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/obj/Debug/CSharpLab2.csproj.CoreCompileInputs.cache
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/obj/Debug/CSharpLab2.exe
+/home/vladimir/Desktop/Учеба/Semestr_4/C#/Lab2/CSharpLab2/CSharpLab2/obj/Debug/CSharpLab2.pdb

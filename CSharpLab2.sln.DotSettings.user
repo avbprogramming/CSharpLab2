@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/vladimir/.cache/JetBrains/Rider2022.1/resharper-host/temp/Rider/vAny/CoverageData/_CSharpLab2.1522602081/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=056ebecf_002Dce7b_002D4007_002D83d1_002D2ac501df626f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetHashCode #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::663069DC-503C-4CB8-918D-66F131A374F8::.NETFramework,Version=v4.8::TestLab2.TestsInch&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=806bd5b7_002D43c1_002D4c73_002Dbd1e_002D8d638b5947c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGetHashCode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::663069DC-503C-4CB8-918D-66F131A374F8::.NETFramework,Version=v4.8::TestLab2.Tests.TestGetHashCode&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f254284_002D1f67_002D42ac_002Db7b2_002D29e8a124db1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c698b40d_002D6873_002D46af_002D94c2_002D44cc223eea22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestsInch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::663069DC-503C-4CB8-918D-66F131A374F8::.NETFramework,Version=v4.8::TestLab2.TestsInch&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
